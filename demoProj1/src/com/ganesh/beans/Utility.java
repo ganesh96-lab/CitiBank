@@ -10,6 +10,6 @@ public class Utility {
 
 	public void m1() {
 		System.out.println("Utlity m1() method...abcdef");
-		System.out.println("abc123");
+		System.out.println("abc123 ");
 	}
 }
